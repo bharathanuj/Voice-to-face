@@ -1,4 +1,4 @@
-# Voice-to-face
+# Speech-to-face
 
 <p>
 Extracting features such as Age, Gender of a person from his voice is a well studied and logically acceptable research domain built on the basis of human perciverence.Human brain constructs a face on hearing a person’s voice making it relevant to experiment reconstructing faces from voices.</p>
